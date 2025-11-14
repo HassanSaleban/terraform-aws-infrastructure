@@ -1,0 +1,27 @@
+cat > .gitignore << EOF
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+crash.log
+override.tf
+override.tf.json
+
+# LocalStack / Docker
+localstack-volume/
+.localstack/
+docker-compose.override.yml
+ocker-compose.yml
+
+# Secrets
+*.pem
+*.key
+.env
+*.credentials
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
