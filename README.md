@@ -244,7 +244,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ## 👤 Auteur
 
 **Hassan Saleban**
-- GitHub: [@HassanSaleban](https://github.com/HassanSaleban)
+- GitHub: [@HassanSaleban, @hassanali-be](https://github.com/HassanSaleban, https://github.com/hassanali-be)
 - LinkedIn: [Hassan Saleban](https://www.linkedin.com/in/hassan-saleban)
 
 ## 🙏 Remerciements
